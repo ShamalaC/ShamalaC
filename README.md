@@ -1,4 +1,4 @@
-Hello, I'm Shamala Chandrappa! 👋
+# Hello, I'm Shamala Chandrappa! 👋
 
 # About Me
 I'm currently pursuing my Master's in Applied Data Science at San Jose State University, passionate about data engineering, machine learning, and cloud technologies. I enjoy building scalable data pipelines, analyzing data to generate insights, and exploring innovative technologies like AI and Big Data.
