@@ -1,9 +1,11 @@
-👋 Hi, Shamala here! Data Engineering and Machine Learning enthusiast |Ex-FIS, PeopleLens| San Jose, California, USA
+Hello, I'm Shamala Chandrappa! 👋
 
-📚 Pursuing a Master’s in Applied Data Science at San Jose State University, San Jose, California, USA | Bachelor’s in Computer Science from CMR Institute of Technology, India
+# About Me
+I'm currently pursuing my Master's in Applied Data Science at San Jose State University, passionate about data engineering, machine learning, and cloud technologies. I enjoy building scalable data pipelines, analyzing data to generate insights, and exploring innovative technologies like AI and Big Data.
 
-💼 Experienced in building scalable, end-to-end data pipelines and managing large datasets. Proficient with Python, SQL, AWS, GCP, Tableau, and Power BI.
-
-💡 Skilled in Data Engineering, Machine Learning, Deep Learning, Big Data, Data Visualization, and Cloud Computing.
+# What I Do:
+💻 Data Engineering: Building end-to-end data pipelines and optimizing ETL processes.
+🌐 Machine Learning: Creating predictive models and exploring deep learning with TensorFlow and PyTorch.
+☁️ Cloud Computing: Working with AWS, GCP, and cloud-native solutions for big data processing.
 
 🔗 Connect with me on https://www.linkedin.com/in/shamalachandrappa/
